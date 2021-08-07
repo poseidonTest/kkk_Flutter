@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
       title: 'Material App',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Material App KKK Bar'),
+          title: Text('Material App KKK-Test Bar'),
         ),
         body: ListView(
           children: _widgetList,
